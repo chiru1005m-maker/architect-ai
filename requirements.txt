@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+matplotlib
+ollama
+torch
+langchain-community
+langchain-ollama
+langchain-text-splitters
+chromadb
+pypdf
+beautifulsoup4
+lxml
+requests
